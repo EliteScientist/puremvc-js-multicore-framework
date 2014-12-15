@@ -1,0 +1,12 @@
+{
+  "name": "puremvc",
+  "version": "1.0.1",
+  "main": "",
+  "description": "PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern. This is a JavaScript port of the AS3 reference implementation of the MultiCore Version. It supports modular programming through the use of Multiton Core actors.",
+  "license": "custom",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
